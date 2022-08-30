@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+@media (max-width  :1199px){
+    header .wrap{width: 100%;}
+    #gitDeco .wrap a img{ width: 60px;}
+}
+
+@media (max-width  :767px){
+    
+}
+@media (max-width  :576px){
+   
+}
