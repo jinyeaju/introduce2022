@@ -93,6 +93,11 @@ header .wrap .menu ul li a{
     padding: 100px 10px 126px;
     color: #666;
 }
+#summary .wrap a{ 
+    display: block; 
+    margin-bottom: 30px;
+    font-size: 20px;
+}
 section .wrap > div{ 
     padding-bottom: 80px; 
 }
